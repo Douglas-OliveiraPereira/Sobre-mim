@@ -44,5 +44,3 @@ Tenho grande interesse em desenvolvimento de software e estou sempre buscando ap
 ---
 
 💡 *“Sempre aprendendo, sempre evoluindo.”*  
-
-![visitors](https://komarev.com/ghpvc/?username=augustoedgar&color=blue)
